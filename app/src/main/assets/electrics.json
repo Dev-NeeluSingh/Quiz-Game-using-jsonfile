@@ -1,0 +1,227 @@
+[
+  {
+ "pic":"amd",
+ "a":" Adobe ",
+ "b":" Nvidia ",
+ "c":" AMD ",
+ "d":" Emerson ",
+ "level":"2",
+ "ans":" AMD "
+  },
+  {
+ "pic":"wipro",
+ "a":" Havells ",
+ "b":" Wipro ",
+ "c":" LG ",
+ "d":" Bosch ",
+ "level":"3",
+ "ans":" Wipro "
+  },
+  {
+ "pic":"nvidia",
+ "a":" Apple ",
+ "b":" Compaq ",
+ "c":" Intel ",
+ "d":" Nvidia ",
+ "level":"4",
+ "ans":" Nvidia "
+  },
+  {
+ "pic":"apple",
+ "a":" Oneplus ",
+ "b":" Apple ",
+ "c":" Xiomi ",
+ "d":" Samsung ",
+ "level":"5",
+ "ans":" Apple "
+  },
+  {
+ "pic":"xbox",
+ "a":" Xbox ",
+ "b":" Adobe ",
+ "c":" Psp ",
+ "d":" Cisco ",
+ "level":"6",
+ "ans":" Xbox "
+  },
+  {
+ "pic":"lg1",
+ "a":" Godrej ",
+ "b":" Whirlpool ",
+ "c":" Kelvinator ",
+ "d":" Lg ",
+ "level":"7",
+ "ans":" Lg "
+  },
+  {
+ "pic":"adobe",
+ "a":" Behringer ",
+ "b":" AMD ",
+ "c":" Adobe ",
+ "d":" Apple ",
+ "level":"8",
+ "ans":" Adobe "
+  },
+  {
+ "pic":"mac",
+ "a":" Mac ",
+ "b":" Qualcomm ",
+ "c":" Snapdragon ",
+ "d":" Intel ",
+ "level":"9",
+ "ans":" Mac "
+  },
+  {
+ "pic":"trimble",
+ "a":" Cisco ",
+ "b":" Zebronics ",
+ "c":" Trimble ",
+ "d":" Emerson ",
+ "level":"10",
+ "ans":" Trimble "
+  },
+  {
+ "pic":"moto",
+ "a":" Motorola ",
+ "b":" Micromax ",
+ "c":" Microsoft ",
+ "d":" Huawei ",
+ "level":"11",
+ "ans":" Motorola "
+  },
+  {
+ "pic":"bosch",
+ "a":" Havells ",
+ "b":" Mitsubishi ",
+ "c":" Bosch ",
+ "d":" Crompton Greaves ",
+ "level":"12",
+ "ans":" Bosch "
+  },
+  {
+ "pic":"compaq",
+ "a":" HP ",
+ "b":" Compaq ",
+ "c":" Lenovo ",
+ "d":" Dell ",
+ "level":"13",
+ "ans":" Compaq "
+  },
+  {
+ "pic":"havells",
+ "a":" Havells ",
+ "b":" Schneider ",
+ "c":" Hosper ",
+ "d":" Panasonic ",
+ "level":"14",
+ "ans":" Havells "
+  },
+  {
+ "pic":"cgreaves",
+ "a":" Behringer ",
+ "b":" Huawei ",
+ "c":" Crompton Greaves ",
+ "d":" Shell ",
+ "level":"15",
+ "ans":" Crompton Greaves "
+  },
+  {
+ "pic":"behringer",
+ "a":" Bajaj ",
+ "b":" Behringer ",
+ "c":" Trimble ",
+ "d":" Emerson ",
+ "level":"16",
+ "ans":" Behringer "
+  },
+  {
+ "pic":"zebronics",
+ "a":" Zero ",
+ "b":" Dell ",
+ "c":" Zebronics ",
+ "d":" Airtel ",
+ "level":"17",
+ "ans":" Zebronics "
+  },
+ {
+ "pic":"microsoft",
+ "a":" Mac ",
+ "b":" Intel ",
+ "c":" Infosys ",
+ "d":" Microsoft ",
+ "level":"18",
+ "ans":" Microsoft "
+  },
+  {
+ "pic":"mitsubishi",
+ "a":" Voltas ",
+ "b":" Godrej ",
+ "c":" Mitsubishi ",
+ "d":" Emerson ",
+ "level":"19",
+ "ans":" Mitsubishi "
+  },
+  {
+ "pic":"emerson",
+ "a":" Trimble ",
+ "b":" Cisco ",
+ "c":" wipro ",
+ "d":" Emerson ",
+ "level":"20",
+ "ans":" Emerson "
+  },
+  {
+ "pic":"huawei",
+ "a":" Venus ",
+ "b":" Huawei ",
+ "c":" Blackberry ",
+ "d":" Zte ",
+ "level":"21",
+ "ans":" Huawei "
+  },
+  {
+ "pic":"blackberry",
+ "a":" Xolo ",
+ "b":" Apple ",
+ "c":" Xiomi ",
+ "d":" Blackberry ",
+ "level":"22",
+ "ans":" Blackberry "
+  },
+  {
+ "pic":"philips",
+ "a":" Philips ",
+ "b":" Wipro ",
+ "c":" Syska ",
+ "d":" Havells ",
+ "level":"23",
+ "ans":" Philips "
+  },
+  {
+ "pic":"android",
+ "a":" Linux ",
+ "b":" Android ",
+ "c":" Adobe ",
+ "d":" Windows ",
+ "level":"24",
+ "ans":" Android "
+  },
+  {
+ "pic":"cisco",
+ "a":" Phonic ",
+ "b":" American Sound ",
+ "c":" Cisco ",
+ "d":" Pioneer ",
+ "level":"25",
+ "ans":" Cisco "
+  },
+  {
+ "pic":"airtel",
+ "a":" Vodafone ",
+ "b":" Airtel ",
+ "c":" Jio ",
+ "d":" Reliance ",
+ "level":"25",
+ "ans":" Airtel "
+  }
+]

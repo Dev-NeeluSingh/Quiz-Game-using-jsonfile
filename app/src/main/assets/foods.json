@@ -1,0 +1,227 @@
+[
+  {
+ "pic":"candy",
+ "a":" Jam ",
+ "b":" Bread ",
+ "c":" Candy ",
+ "d":" Biscuits ",
+ "level":"2",
+ "ans":" Candy "
+  },
+  {
+ "pic":"hamburger",
+ "a":" Sandwich ",
+ "b":" Hamburger ",
+ "c":" Cookies ",
+ "d":" Chips ",
+ "level":"3",
+ "ans":" Hamburger "
+  },
+  {
+ "pic":"ice",
+ "a":" Ice-cream ",
+ "b":" Cream Roll ",
+ "c":" Cake ",
+ "d":" Donut ",
+ "level":"4",
+ "ans":" Ice-cream "
+  },
+  {
+ "pic":"sushi",
+ "a":" Fried Rice ",
+ "b":" Prawns ",
+ "c":" Sushi ",
+ "d":" Cake ",
+ "level":"5",
+ "ans":" Sushi "
+  },
+  {
+ "pic":"cookies",
+ "a":" Cookies ",
+ "b":" Pancake ",
+ "c":" Taco ",
+ "d":" Biscuits ",
+ "level":"6",
+ "ans":" Cookies "
+  },
+  {
+ "pic":"noodles",
+ "a":" Pasta ",
+ "b":" Noodles ",
+ "c":" Macaroni ",
+ "d":" Manchurian ",
+ "level":"7",
+ "ans":" Noodles "
+  },
+  {
+ "pic":"cake",
+ "a":" Ice-cream ",
+ "b":" Pancake ",
+ "c":" Muffin ",
+ "d":" Cake ",
+ "level":"8",
+ "ans":" Cake "
+  },
+  {
+ "pic":"cappuccino",
+ "a":" Tea ",
+ "b":" Juice ",
+ "c":" Cappuccino ",
+ "d":" Black Tea ",
+ "level":"9",
+ "ans":" Cappuccino "
+  },
+  {
+ "pic":"pizza",
+ "a":" Bacon ",
+ "b":" Taco ",
+ "c":" Burger ",
+ "d":" Pizza ",
+ "level":"10",
+ "ans":" Pizza "
+  },
+  {
+ "pic":"pancake",
+ "a":" Pancake ",
+ "b":" Pizza ",
+ "c":" Sandwich ",
+ "d":" Hotdog ",
+ "level":"11",
+ "ans":" Pancake "
+  },
+  {
+ "pic":"donut",
+ "a":" Spring Roll ",
+ "b":" Donut ",
+ "c":" Cookies ",
+ "d":" Bread Roll ",
+ "level":"12",
+ "ans":" Donut "
+  },
+  {
+ "pic":"french",
+ "a":" Chips ",
+ "b":" Patties ",
+ "c":" Salad ",
+ "d":" French-fries ",
+ "level":"13",
+ "ans":" French-fries "
+  },
+  {
+ "pic":"pasta",
+ "a":" Pasta ",
+ "b":" Manchurian ",
+ "c":" Noodles ",
+ "d":" Soup ",
+ "level":"14",
+ "ans":" Pasta "
+  },
+  {
+ "pic":"taco",
+ "a":" Pizza ",
+ "b":" Taco ",
+ "c":" Sandwiches ",
+ "d":" Burrito ",
+ "level":"15",
+ "ans":" Taco "
+  },
+  {
+ "pic":"sandwiches",
+ "a":" Burger ",
+ "b":" Hotdog ",
+ "c":" Sandwiches ",
+ "d":" Pancake ",
+ "level":"16",
+ "ans":" Sandwiches "
+  },
+  {
+ "pic":"popcorn",
+ "a":" Burrito ",
+ "b":" Taco ",
+ "c":" Sandwiches ",
+ "d":" Popcorn ",
+ "level":"17",
+ "ans":" Popcorn "
+  },
+ {
+ "pic":"muffin",
+ "a":" Cake ",
+ "b":" Cookies ",
+ "c":" Muffin ",
+ "d":" Ice-cream ",
+ "level":"18",
+ "ans":" Muffin "
+  },
+  {
+ "pic":"chips",
+ "a":" Burrito ",
+ "b":" Chips ",
+ "c":" Tortilla ",
+ "d":" French-fries ",
+ "level":"19",
+ "ans":" Chips "
+  },
+  {
+ "pic":"tea",
+ "a":" Tea ",
+ "b":" Coffee ",
+ "c":" Milkshake ",
+ "d":" Soup ",
+ "level":"20",
+ "ans":" Tea "
+  },
+  {
+ "pic":"softdrink",
+ "a":" Cold Coffee ",
+ "b":" Juice ",
+ "c":" Liquor ",
+ "d":" Softdrink ",
+ "level":"21",
+ "ans":" Softdrink "
+  },
+  {
+ "pic":"manchurian",
+ "a":" Tomatoe Soup ",
+ "b":" Pasta ",
+ "c":" Manchurian ",
+ "d":" Bread Rolls ",
+ "level":"22",
+ "ans":" Manchurian "
+  },
+  {
+ "pic":"hotdog",
+ "a":" Sandwiches ",
+ "b":" Burger ",
+ "c":" Pav-bhaji ",
+ "d":" Hotdog ",
+ "level":"23",
+ "ans":" Hotdog "
+  },
+  {
+ "pic":"burrito",
+ "a":" Tortillas ",
+ "b":" Chips ",
+ "c":" Burrito ",
+ "d":" Egg Roll ",
+ "level":"24",
+ "ans":" Burrito "
+  },
+  {
+ "pic":"milkshake",
+ "a":" Milkshakes ",
+ "b":" Smoothy ",
+ "c":" Mocktail ",
+ "d":" Liquor ",
+ "level":"25",
+ "ans":" Milkshakes "
+  },
+  {
+ "pic":"roasted",
+ "a":" Roasted Mutton ",
+ "b":" Roasted Chicken ",
+ "c":" Bacon ",
+ "d":" Roasted Beef ",
+ "level":"25",
+ "ans":" Roasted Chicken "
+  }
+]

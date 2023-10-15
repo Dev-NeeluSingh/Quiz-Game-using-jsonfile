@@ -1,0 +1,227 @@
+[
+  {
+ "pic":"polaris",
+ "a":" Bmw ",
+ "b":" Ducati ",
+ "c":" TVS ",
+ "d":" Polaris ",
+ "level":"2",
+ "ans":" Polaris "
+  },
+  {
+ "pic":"hond",
+ "a":" Mahindra ",
+ "b":" Honda ",
+ "c":" Harley Davidson ",
+ "d":" Suzuki ",
+ "level":"3",
+ "ans":" Honda "
+  },
+  {
+ "pic":"hero",
+ "a":" Yamaha ",
+ "b":" Honda ",
+ "c":" Hero ",
+ "d":" Bimota ",
+ "level":"4",
+ "ans":" Hero "
+  },
+  {
+ "pic":"yamaha",
+ "a":" Kawasaki ",
+ "b":" MV Agusta ",
+ "c":" Indian Motorcycles ",
+ "d":" Yamaha ",
+ "level":"5",
+ "ans":" Yamaha "
+  },
+  {
+ "pic":"bimota",
+ "a":" Moto Guzzi ",
+ "b":" Bimota ",
+ "c":" Zero ",
+ "d":" Hyosung ",
+ "level":"6",
+ "ans":" Bimota "
+  },
+  {
+ "pic":"hyusung",
+ "a":" Kawasaki ",
+ "b":" Hyosung ",
+ "c":" Harley Davidson ",
+ "d":" Jawa ",
+ "level":"7",
+ "ans":" Hyosung "
+  },
+  {
+ "pic":"bmw1",
+ "a":" BMW ",
+ "b":" Yamaha ",
+ "c":" MZ Motorrad ",
+ "d":" Husqvarna ",
+ "level":"8",
+ "ans":" BMW "
+  },
+  {
+ "pic":"tvs",
+ "a":" Suzuki ",
+ "b":" TVS ",
+ "c":" Razor Motorcycles ",
+ "d":" Mahindra ",
+ "level":"9",
+ "ans":" TVS "
+  },
+  {
+ "pic":"mahindra1",
+ "a":" Lightning ",
+ "b":" Jawa ",
+ "c":" Mahindra ",
+ "d":" Victory ",
+ "level":"10",
+ "ans":" Mahindra "
+  },
+  {
+ "pic":"zero",
+ "a":" Hero Electric ",
+ "b":" Zero ",
+ "c":" Polaris ",
+ "d":" Jawa ",
+ "level":"11",
+ "ans":" Zero "
+  },
+  {
+ "pic":"victory",
+ "a":" Spring Roll ",
+ "b":" Victory Motorcycles ",
+ "c":" Moto Guzzi ",
+ "d":" Bajaj ",
+ "level":"12",
+ "ans":" Victory Motorcycles "
+  },
+  {
+ "pic":"kawasaki",
+ "a":" Ducati ",
+ "b":" Jawa ",
+ "c":" Kawasaki ",
+ "d":" BMW ",
+ "level":"13",
+ "ans":" Kawasaki "
+  },
+  {
+ "pic":"motoguzzi",
+ "a":" MV Agusta ",
+ "b":" Victory Motorcycles ",
+ "c":" Razor Motorcycles ",
+ "d":" Motoguzzi ",
+ "level":"14",
+ "ans":" Motoguzzi "
+  },
+  {
+ "pic":"harley",
+ "a":" Harley Davidson ",
+ "b":" Jawa ",
+ "c":" Indian ",
+ "d":" Royal Enfield ",
+ "level":"15",
+ "ans":" Harley Davidson "
+  },
+  {
+ "pic":"ducati",
+ "a":" Bajaj ",
+ "b":" Victory ",
+ "c":" Polaris ",
+ "d":" Ducati ",
+ "level":"16",
+ "ans":" Ducati "
+  },
+  {
+ "pic":"bajaj",
+ "a":" Bajaj ",
+ "b":" Suzuki ",
+ "c":" Hero ",
+ "d":" Honda ",
+ "level":"17",
+ "ans":" Bajaj "
+  },
+ {
+ "pic":"suzuki",
+ "a":" Husqvarna ",
+ "b":" Hyosung ",
+ "c":" Suzuki ",
+ "d":" Victory ",
+ "level":"18",
+ "ans":" Suzuki "
+  },
+  {
+ "pic":"mva",
+ "a":" Mahindra ",
+ "b":" MV Agusta ",
+ "c":" MZ Motorrad ",
+ "d":" Razor ",
+ "level":"19",
+ "ans":" MV Agusta "
+  },
+  {
+ "pic":"jawa",
+ "a":" Indian ",
+ "b":" Harley Davidson ",
+ "c":" Royal Enfield ",
+ "d":" Jawa ",
+ "level":"20",
+ "ans":" Jawa "
+  },
+  {
+ "pic":"indian",
+ "a":" Jawa ",
+ "b":" Hero ",
+ "c":" Indian ",
+ "d":" Harley Davidson ",
+ "level":"21",
+ "ans":" Indian "
+  },
+  {
+ "pic":"lightning",
+ "a":" Zero ",
+ "b":" Lightning ",
+ "c":" Hero Electric ",
+ "d":" Bimota ",
+ "level":"22",
+ "ans":" Lightning "
+  },
+  {
+ "pic":"mzm",
+ "a":" MV Agusta ",
+ "b":" Moto Guzzi ",
+ "c":" MZ Motorrad ",
+ "d":" Husqvarna ",
+ "level":"23",
+ "ans":" MZ Motorrad "
+  },
+  {
+ "pic":"husqvarna",
+ "a":" Husqvarna ",
+ "b":" Polaris ",
+ "c":" Razor ",
+ "d":" Hyosung ",
+ "level":"24",
+ "ans":" Husqvarna "
+  },
+  {
+ "pic":"razor",
+ "a":" TVS ",
+ "b":" Bimota ",
+ "c":" Razor ",
+ "d":" Hero ",
+ "level":"25",
+ "ans":" Razor "
+  },
+  {
+ "pic":"heroelectric",
+ "a":" Hero ",
+ "b":" Honda ",
+ "c":" Zero ",
+ "d":" Hero Electric ",
+ "level":"25",
+ "ans":" Hero Electric "
+  }
+]

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Guess The Name</string>
+    <string name="choose">Choose</string>
+    <string name="topic">Topic</string>
+    <string name="slogan">Designing Your Needs</string>
+    <string name="cars">Car\nCompanies</string>
+    <string name="food">Meal\nCompanies</string>
+    <string name="elctric">Electronics\nCompanies</string>
+    <string name="bikes">Bike\nCompanies</string>
+    <string name="maker">A Game By :- Dev-NeeluSingh (INDIA)</string>
+    <string name="levels">Select Level</string>
+    <string name="currentLevel">Current Level :</string>
+    <string name="defaultLevel">01</string>
+
+    <string name="two">02</string>
+    <string name="three">03</string>
+    <string name="four">04</string>
+    <string name="five">05</string>
+    <string name="six">06</string>
+    <string name="seven">07</string>
+    <string name="eight">08</string>
+    <string name="nine">09</string>
+    <string name="ten">10</string>
+
+    <string name="one1">11</string>
+    <string name="one2">12</string>
+    <string name="one3">13</string>
+    <string name="one4">14</string>
+    <string name="one5">15</string>
+    <string name="one6">16</string>
+    <string name="one7">17</string>
+    <string name="one8">18</string>
+    <string name="one9">19</string>
+    <string name="two0">20</string>
+
+    <string name="two1">21</string>
+    <string name="two2">22</string>
+    <string name="two3">23</string>
+    <string name="two4">24</string>
+    <string name="two5">25</string>
+
+    <string name="ques">Q. Guess company name \?</string>
+    <string name="defaultRb1">One</string>
+    <string name="defaultRb2">Two</string>
+    <string name="defaultRb3">Three</string>
+    <string name="defaultRb4">Four</string>
+    <string name="exit">Exit</string>
+    <string name="exitPermission">Do you want to exit ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="rules">1. Only one topic at one time.\n2. Correct answer leads to next question.\n3. Wrong answer leads to start again.</string>
+</resources>
